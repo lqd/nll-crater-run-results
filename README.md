@@ -12,7 +12,7 @@
 | -----                  | ---     | ---    | ---       | ---        | ---   |
 | `attr`                 | 0.1.0   | X      | [2][]     | [#53569][] | |
 | `LocustDB`             | c59429  | X      | [11][]    | [#53570][] | |
-| `proptest-arbitrary`   | 0.2.2   | X?     |           | [#53570][]?| FIXME: reconfirm |
+| `proptest-arbitrary`   | 0.2.2   | X?     | [18][] [19][] | [#53789][] | |
 | `shred`                | 0.7.0   | X      | [7][]     | [#53121][] | |
 
 ---
@@ -109,3 +109,6 @@
 [15]: https://play.rust-lang.org/?gist=f82cedfca0a942938d8fedf3f869c0cd&version=nightly&mode=debug&edition=2015
 [16]: https://play.rust-lang.org/?gist=72ff07aa838d8e4aacb283181e2a0824&version=nightly&mode=debug&edition=2015
 [17]: https://play.rust-lang.org/?gist=7f96eeac405c6f2316fdc794c1631124&version=nightly&mode=debug&edition=2015
+[#53789]: https://github.com/rust-lang/rust/issues/53789
+[18]: https://play.rust-lang.org/?gist=c990af931ab56d93207efcade0ffd01b&version=nightly&mode=debug&edition=2015
+[19]: https://play.rust-lang.org/?gist=1f1d03d4f8280b8843594cba668c9db4&version=nightly&mode=debug&edition=2015
