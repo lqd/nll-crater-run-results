@@ -11,7 +11,6 @@
 | Crate                  | Version | Status | Minimized | Issue      | Notes |
 | -----                  | ---     | ---    | ---       | ---        | ---   |
 | `attr`                 | 0.1.0   | X      | [2][]     | [#53569][] | |
-| `LocustDB`             | c59429  | X      | [11][]    | [#53570][] | |
 | `proptest-arbitrary`   | 0.2.2   | X?     | [18][] [19][] | [#53789][] | |
 | `shred`                | 0.7.0   | X      | [7][]     | [#53121][] | |
 
@@ -41,6 +40,7 @@
 | `ilp-packet`           | 0.3.0   | F      | [4][]     |            | FIXME: find an issue link |
 | `jmespath-macros`      | 0.1.1   | +      |           |            | |
 | `liner`                | 0.4.4   | F      | [17][]    |            | |
+| `LocustDB`             | c59429  | +      | [11][]    | [#53570][] | |
 | `mop-solvers`          | 0.0.1   | F      |           |            | [#47349][] (diagnostics) |
 | `nalgebra`             | 0.11.2  | F      |           |            | same as 0.16.0 |
 | `nalgebra`             | 0.12.3  | F      |           |            | same as 0.16.0 |
