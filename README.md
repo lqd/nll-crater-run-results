@@ -51,7 +51,7 @@
 | `pear_codegen`         | 0.0.18  | +      |           |            | |
 | `pgetopts`             | 0.1.2   | F      | [5][]     |            | FIXME: find an issue link |
 | `phf_macros`           | 0.7.22  | +      |           |            | |
-| `pom`                  | 2.0.1   | F      |           |[#53040][]? | FIXME: reconfirm |
+| `pom`                  | 2.0.1   | F      | [20][]    |[#53040][]? | FIXME: confirm / + needs diagnostics issue ? |
 | `rgen3-save`           | 0.1.0   | F      | [6][]     |            | might be a case for 2Phi borrows |
 | `rome`                 | 0.1.2   | +      |           |            | |
 | `rs-graph`             | 0.14.0  | F      |           |            | same as 0.14.1 |
@@ -112,3 +112,4 @@
 [#53789]: https://github.com/rust-lang/rust/issues/53789
 [18]: https://play.rust-lang.org/?gist=c990af931ab56d93207efcade0ffd01b&version=nightly&mode=debug&edition=2015
 [19]: https://play.rust-lang.org/?gist=1f1d03d4f8280b8843594cba668c9db4&version=nightly&mode=debug&edition=2015
+[20]: https://play.rust-lang.org/?gist=c6a5e5dcf99e04855350770b62528486&version=nightly&mode=debug&edition=2015
