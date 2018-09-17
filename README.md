@@ -39,6 +39,7 @@
 | `getopts`              | 0.2.15  | F      |           |            | FIXME: find an issue link |
 | `gluon_base`           | 0.6.2   | +      |           | [#53119][] | similar to 0.8.0 |
 | `gluon_base`           | 0.8.0   | +      |           | [#53119][] | |
+| `gluon_vm`             | 0.8.1   | F      | [23][] [24][] [25][]|  | [#52059][] (diagnostics) 
 | `ilp-packet`           | 0.3.0   | F      | [4][]     |            | FIXME: find an issue link |
 | `jmespath-macros`      | 0.1.1   | +      |           |            | |
 | `liner`                | 0.4.4   | F      | [17][]    |            | |
@@ -119,3 +120,6 @@
 [#53432]: https://github.com/rust-lang/rust/issues/53432
 [21]: https://play.rust-lang.org/?gist=448e4a6646e0048b027b03f607a612dc&version=nightly&mode=debug&edition=2015
 [22]: https://play.rust-lang.org/?gist=b61db3de15c2c0716d76d7e5df9abb02&version=nightly&mode=debug&edition=2015
+[23]: https://play.rust-lang.org/?gist=2869a3fead3981815e077700d68de8eb&version=nightly&mode=debug&edition=2015
+[24]: https://play.rust-lang.org/?gist=d404421b51edcb0c2d6fb700a313be95&version=nightly&mode=debug&edition=2015
+[25]: https://play.rust-lang.org/?gist=f16c92102d7c16ec4feda59814ba7cf9&version=nightly&mode=debug&edition=2015
