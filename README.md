@@ -31,6 +31,7 @@
 | `extended-collections` | 0.1.0   | F      |           | [#51915][] | wants a more aggressive 2PB |
 | `extended-collections` | 0.2.0   | F      | [9][]     | [#51915][] | wants a more aggressive 2PB |
 | `fractions_and_matrices` | 2ea35 | F      |           |            | [#47349][] (diagnostics)
+| `fred`                 | 0.1.6   | F      | [21][] [22][] |        | [#53432][]
 | `fscmp`                | 0.1.1   | +      |           |            | |
 | `galvanize`            | 0.0.1   | F      | [10][]    |            | [#52059][] (diagnostics) |
 | `gearley`              | 0.0.1   | F      |           |            | |
@@ -116,3 +117,5 @@
 [20]: https://play.rust-lang.org/?gist=c6a5e5dcf99e04855350770b62528486&version=nightly&mode=debug&edition=2015
 [chiisai]: https://crater-reports.s3.amazonaws.com/pr-53426-2/try%23e3ede4ae5297558caacf160ecf523f3a5759f682/reg/chiisai-0.1.6/log.txt
 [#53432]: https://github.com/rust-lang/rust/issues/53432
+[21]: https://play.rust-lang.org/?gist=448e4a6646e0048b027b03f607a612dc&version=nightly&mode=debug&edition=2015
+[22]: https://play.rust-lang.org/?gist=b61db3de15c2c0716d76d7e5df9abb02&version=nightly&mode=debug&edition=2015
