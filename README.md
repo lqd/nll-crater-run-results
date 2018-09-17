@@ -24,6 +24,7 @@
 | `brassfibre`           | 0.2.0   | +      |           |            | |
 | `capnp`                | 0.6.2   | F      |           |            | same as 0.7.5
 | `capnp`                | 0.7.5   | F      |           |            | [#47349][] (diagnostics)
+| `chiisai`              | 0.1.6   | F      |           |            | [#53432][]
 | `clucstr`              | 0.1.3   | +      |           |            | |
 | `embed`                | 0.1.1   | +      |           |            | |
 | `envelope`             | 0.8.1   | +      | [3][]     |            | |
@@ -113,3 +114,5 @@
 [18]: https://play.rust-lang.org/?gist=c990af931ab56d93207efcade0ffd01b&version=nightly&mode=debug&edition=2015
 [19]: https://play.rust-lang.org/?gist=1f1d03d4f8280b8843594cba668c9db4&version=nightly&mode=debug&edition=2015
 [20]: https://play.rust-lang.org/?gist=c6a5e5dcf99e04855350770b62528486&version=nightly&mode=debug&edition=2015
+[chiisai]: https://crater-reports.s3.amazonaws.com/pr-53426-2/try%23e3ede4ae5297558caacf160ecf523f3a5759f682/reg/chiisai-0.1.6/log.txt
+[#53432]: https://github.com/rust-lang/rust/issues/53432
