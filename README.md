@@ -51,6 +51,7 @@
 | `nalgebra`             | 0.14.4  | F      |           |            | same as 0.16.0 |
 | `nalgebra`             | 0.15.3  | F      |           |            | same as 0.16.0 |
 | `nalgebra`             | 0.16.0  | F      |           |            | [#47349][] (diagnostics) |
+| `ocl`                  | 0.18.0  | F      | [26][]    |            | |
 | `pear_codegen`         | 0.0.18  | +      |           |            | |
 | `pgetopts`             | 0.1.2   | F      | [5][]     |            | FIXME: find an issue link |
 | `phf_macros`           | 0.7.22  | +      |           |            | |
@@ -123,3 +124,4 @@
 [23]: https://play.rust-lang.org/?gist=2869a3fead3981815e077700d68de8eb&version=nightly&mode=debug&edition=2015
 [24]: https://play.rust-lang.org/?gist=d404421b51edcb0c2d6fb700a313be95&version=nightly&mode=debug&edition=2015
 [25]: https://play.rust-lang.org/?gist=f16c92102d7c16ec4feda59814ba7cf9&version=nightly&mode=debug&edition=2015
+[26]: https://play.rust-lang.org/?gist=1ddf9aa2d1bc3e96066576c2b4b05df3&version=nightly&mode=debug&edition=2015
